@@ -1,6 +1,6 @@
-# News_Site  
-**News Chrome Extension**   
-**Description**    
+# News Chrome Extension
+     
+**Description**      
 The News Chrome Extension is a useful tool that displays random news articles along with their accompanying picture, title, article link, and a brief summary. Stay updated and discover interesting news from various sources with just a click of a button!  
   
 **Features**    
