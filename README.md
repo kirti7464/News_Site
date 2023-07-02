@@ -10,6 +10,9 @@ The News Chrome Extension is a useful tool that displays random news articles al
 -Includes pictures, titles, article links, and summaries  
 -Easy and convenient to use  
 -Provides a diverse range of news from different sources  
+
+**Screenshots**  
+![extension_img](ss.png)  
   
 **Acknowledgment**  
   
